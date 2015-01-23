@@ -1,0 +1,5 @@
+/media/campitos/mi_daton/AndroidStudioProjects/EffectiveNavigation1/app/build/intermediates/classes/debug
+/media/campitos/mi_daton/AndroidStudioProjects/EffectiveNavigation1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-0f06a1df1ac48be3ddcfd2f4d5a8c8023201e0ab.jar
+/media/campitos/mi_daton/AndroidStudioProjects/EffectiveNavigation1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1a60307c84a7a99d392ef406bd44b7acecc5db37.jar
+/media/campitos/mi_daton/AndroidStudioProjects/EffectiveNavigation1/app/build/intermediates/pre-dexed/debug/classes-0645c1cc42a8ce16f31f636bd395b54cdf597c33.jar
+/media/campitos/mi_daton/AndroidStudioProjects/EffectiveNavigation1/app/build/intermediates/pre-dexed/debug/classes-8001892fdb924427d11e02da2b6a1295f67b51e7.jar
